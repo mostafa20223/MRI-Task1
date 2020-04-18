@@ -65,16 +65,16 @@
 # Results for Task1
 
 ***Simulation for trajectory of bulk vector***
-> ![Simulation](Results/bloch.gif)
+> ![Simulation](https://github.com/mostafa20223/MRI-Task1/blob/master/Results/bloch.gif)
 
 ***Recovery time for CSF Tissue***
-> ![Recovery](Results/T1(CSF).jpg)
+> ![Recovery](https://github.com/mostafa20223/MRI-Task1/blob/master/Results/T1(CSF).JPG)
 
 ***Relaxation time for CSF Tissue***
-> ![Relaxation](Results/T2(CSF).jpg)
+> ![Relaxation](https://github.com/mostafa20223/MRI-Task1/blob/master/Results/T2(CSF).JPG)
 
 ***Fourier transform for phantom***
-> ![Fourier](Results/Phantom_FT.jpg)
+> ![Fourier](https://github.com/mostafa20223/MRI-Task1/blob/master/Results/Phantom_FT.JPG)
 
 ***Effect of non uniform magnetic field***
-> ![Non_uniform](Results/NU_B.jpg)
+> ![Non_uniform](https://github.com/mostafa20223/MRI-Task1/blob/master/Results/NU_B.JPG)
